@@ -1,3 +1,6 @@
+#Exemplo 01 - Weskley Gustavo
+
+
 class Bola
 
   attr_accessor :cor, :circunferencia1, :material
@@ -18,3 +21,5 @@ class Bola
 
   
   end
+
+#weskleygustavo@gmail.com
